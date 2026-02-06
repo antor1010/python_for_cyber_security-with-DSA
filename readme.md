@@ -32,5 +32,7 @@ Open your terminal / command prompt and run:
 
 ```bash
 git clone https://github.com/antor1010/python_for_cyber_security-with-DSA.git
+```
+```
 cd python_for_cyber_security-with-DSA
 ```
