@@ -26,9 +26,9 @@ This repo includes Python scripts covering:
 These examples help you **learn logic and problem-solving** using Python — useful for both coding and security contexts. :contentReference[oaicite:1]{index=1}
 
 ## 🚀 Getting Started
+### 🔹 Step 1: Clone the repository
 
-### 🔹 Clone the repository
+Open your terminal / command prompt and run:
 
 ```bash
 git clone https://github.com/antor1010/python_for_cyber_security-with-DSA.git
-cd python_for_cyber_security-with-DSA
