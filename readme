@@ -1,0 +1,34 @@
+# Python for Cyber Security with DSA
+
+Welcome! This repository contains a curated collection of **Python programs** focused on **Basic Data Structures & Algorithms (DSA)** and **Introductory Cyber Security concepts**.
+
+## 👨‍💻 About Me
+
+**Antor Biswas**  
+3rd Year CSE (Cyber Security) Student at **IEM (Institute of Engineering & Management)** 📍  
+I created this repository as part of my learning journey to practice Python, strengthen algorithm skills, and explore cyber security concepts.
+
+## 🔍 What’s Inside
+
+This repo includes Python scripts covering:
+
+### 🧠 Python & DSA Basics
+- Fundamental Python programs
+- Data Structures like lists, strings, and dictionaries
+- Algorithm examples: sorting, searching, recursion
+
+### 🛡️ Cyber Security with Python (Beginner Level)
+- Simple security utilities and scripts
+- Cryptography basics
+- Password handling and validation
+- Tools to practice security concepts in Python
+
+These examples help you **learn logic and problem-solving** using Python — useful for both coding and security contexts. :contentReference[oaicite:1]{index=1}
+
+## 🚀 Getting Started
+
+### 🔹 Clone the repository
+
+```bash
+git clone https://github.com/antor1010/python_for_cyber_security-with-DSA.git
+cd python_for_cyber_security-with-DSA
